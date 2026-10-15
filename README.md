@@ -1,12 +1,12 @@
 # Salut, je suis Ilies 👋
 
-Étudiant en informatique de gestion (orientation **développement d'applications**) à la **HENALLUX** et fondateur d'**IDA**.
+Étudiant en informatique de gestion (orientation **développement d'applications**) à la **HENALLUX** et fondateur d'**IDA** (agence **IDOB Tech**).
 
 ## 🚀 IDA
 
 Société de services informatiques créée en octobre 2025. Je réalise pour mes clients :
 - des sites vitrines et des boutiques e-commerce ;
-- des applications sur mesure ;
+- des applications web et mobiles sur mesure ;
 - des agents IA ;
 - de la gestion de campagnes publicitaires (ads) et du référencement (SEO).
 
@@ -23,6 +23,11 @@ Société de services informatiques créée en octobre 2025. Je réalise pour me
 ## 📂 Projets
 
 - **[scout-unit-management](https://github.com/iliesbkt213/scout-unit-management)** : application de bureau Java (Swing) de gestion d'une unité scoute. Architecture MVC + 3 tiers, pattern DAO, base MySQL, tests JUnit.
-- **Sites clients** : site vitrine pour une entreprise de Charleroi, développé avec Astro (dépôt privé).
+
+## 🌐 Sites réalisés
+
+- [illico-web.ch](https://illico-web.ch/)
+- [samyateamtkd.be](https://samyateamtkd.be/) : club de taekwondo à Charleroi
+- [hofadquran.com](https://hofadquran.com/)
 
 📍 Charleroi, Belgique
