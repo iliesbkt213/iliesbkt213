@@ -14,11 +14,11 @@ Société de services informatiques créée en octobre 2025. Je réalise pour me
 
 | Domaine | Outils |
 |---|---|
-| Langages | C, C#, Java, JavaScript, Python, SQL |
-| Web | HTML/CSS, Astro, JavaScript |
-| Bases de données | MySQL, SQL Server (T-SQL) |
+| Langages | C, C#, Java, JavaScript, Python, PHP, SQL |
+| Web | HTML/CSS, Astro, Next.js, React, Node.js/Express |
+| Mobile | Flutter, React Native |
+| Bases de données | MySQL, SQL Server (T-SQL), PostgreSQL |
 | Outils | Git, Docker |
-| ERP | Odoo (OWL/JS, POS, positions fiscales, listes de prix, TVA) |
 
 ## 📂 Projets
 
@@ -29,5 +29,9 @@ Société de services informatiques créée en octobre 2025. Je réalise pour me
 - [illico-web.ch](https://illico-web.ch/)
 - [samyateamtkd.be](https://samyateamtkd.be/) : club de taekwondo à Charleroi
 - [hofadquran.com](https://hofadquran.com/)
+
+## 🔗 Me retrouver
+
+[LinkedIn](https://www.linkedin.com/in/iliesboukhatem/) · [Instagram IDOB Tech](https://www.instagram.com/idobtech/) · [TikTok IDOB Tech](https://www.tiktok.com/@idob.tech)
 
 📍 Charleroi, Belgique
