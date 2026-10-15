@@ -1,16 +1,32 @@
-## Hi there 👋
+# Salut, je suis Ilies 👋
 
-<!--
-**iliesbkt213/iliesbkt213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en informatique de gestion (orientation **développement d'applications**) à la **HENALLUX** et fondateur d'**IDA**.
 
-Here are some ideas to get you started:
+## 🚀 IDA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Société de services informatiques créée en octobre 2025. Je réalise pour mes clients :
+- des sites vitrines et des boutiques e-commerce ;
+- des applications sur mesure ;
+- des agents IA ;
+- de la gestion de campagnes publicitaires (ads) et du référencement (SEO).
+
+## 🛠️ Technologies
+
+| Domaine | Outils |
+|---|---|
+| Langages | C, C#, Java, JavaScript, Python, SQL |
+| Web | HTML/CSS, Astro, JavaScript |
+| Bases de données | MySQL, SQL Server (T-SQL) |
+| Outils | Git, Docker |
+| ERP | Odoo (OWL/JS, POS, positions fiscales, listes de prix, TVA) |
+
+## 📂 Projets
+
+- **[scout-unit-management](https://github.com/iliesbkt213/scout-unit-management)** : application de bureau Java (Swing) de gestion d'une unité scoute. Architecture MVC + 3 tiers, pattern DAO, base MySQL, tests JUnit.
+- **Sites clients** : site vitrine pour une entreprise de Charleroi, développé avec Astro (dépôt privé).
+
+## 🎯 Je recherche
+
+Un **stage de 12 à 15 semaines à partir de février 2027**, en développement web ou logiciel, autour de Charleroi.
+
+📍 Charleroi, Belgique
