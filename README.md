@@ -25,8 +25,4 @@ Société de services informatiques créée en octobre 2025. Je réalise pour me
 - **[scout-unit-management](https://github.com/iliesbkt213/scout-unit-management)** : application de bureau Java (Swing) de gestion d'une unité scoute. Architecture MVC + 3 tiers, pattern DAO, base MySQL, tests JUnit.
 - **Sites clients** : site vitrine pour une entreprise de Charleroi, développé avec Astro (dépôt privé).
 
-## 🎯 Je recherche
-
-Un **stage de 12 à 15 semaines à partir de février 2027**, en développement web ou logiciel, autour de Charleroi.
-
 📍 Charleroi, Belgique
